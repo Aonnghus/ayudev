@@ -1,4 +1,4 @@
-# Ayudev theme
+# Ayudev theme for Visual Studio Code
 
 This personal theme is made up of 3 components:
 - Ayudev - Light theme
